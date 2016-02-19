@@ -1,4 +1,4 @@
-# Icon Fonts for Atom
+# Icon Fonts (Legacy) for Atom
 
 [![apm](https://img.shields.io/apm/l/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
 [![apm](https://img.shields.io/apm/v/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
