@@ -1,0 +1,33 @@
+{
+  "name": "icon-fonts-legacy",
+  "version": "0.0.0",
+  "description": "Atom snippets for a variety of icon fonts that were removed from the main package",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "glyphicons",
+    "webfont"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idleberg/atom-icon-fonts-legacy"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffeelint": "^0.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-jsonlint": "^1.1.1",
+    "gulp-recess": "^1.2.0",
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "test": "gulp lint"
+  }
+}
