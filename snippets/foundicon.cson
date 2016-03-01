@@ -1,4 +1,4 @@
-'.text.html':
+'.source.js, .text.html':
   'foundicon-add-doc':
     'prefix': 'foundicon-add-doc'
     'body': '<${1:i} class="foundicon-add-doc$2"></${1:i}>'

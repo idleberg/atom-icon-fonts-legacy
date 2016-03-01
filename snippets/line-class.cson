@@ -1,4 +1,4 @@
-'.text.html':
+'.source.js, .text.html':
   'line-icon-adjustments-class':
     'prefix': 'line-icon-adjustments-class'
     'body': '<${1:span} class="icon-adjustments$2"></${1:span}>'

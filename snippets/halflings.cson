@@ -1,4 +1,4 @@
-'.text.html':
+'.source.js, .text.html':
   'halflings-adjust':
     'prefix': 'halflings-adjust'
     'body': '<${1:span} class="halflings halflings-adjust$2"></${1:span}>'

@@ -1,4 +1,4 @@
-'.text.html':
+'.source.js, .text.html':
   'social-amazon':
     'prefix': 'social-amazon'
     'body': '<${1:span} class="social social-amazon$2"></${1:span}>'

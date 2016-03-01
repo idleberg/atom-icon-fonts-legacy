@@ -1,4 +1,4 @@
-'.text.html':
+'.source.js, .text.html':
   'line-icon-adjustments-data-icon':
     'prefix': 'line-icon-adjustments-data-icon'
     'body': '<${1:span} data-icon="&#xe01d$2"></${1:span}>'
