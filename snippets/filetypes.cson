@@ -1,4 +1,4 @@
-'.source.js, .text.html':
+'.text.html':
   'filetypes-aacd':
     'prefix': 'filetypes-aacd'
     'body': '<${1:span} class="filetypes filetypes-aacd$2"></${1:span}>'

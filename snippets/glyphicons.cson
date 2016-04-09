@@ -1,4 +1,4 @@
-'.source.js, .text.html':
+'.text.html':
   'glyphicons-activity':
     'prefix': 'glyphicons-activity'
     'body': '<${1:span} class="glyphicons glyphicons-activity$2"></${1:span}>'
