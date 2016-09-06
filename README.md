@@ -4,7 +4,7 @@
 [![apm](https://img.shields.io/apm/v/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
 [![apm](https://img.shields.io/apm/dm/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
 [![Travis](https://img.shields.io/travis/idleberg/atom-icon-fonts-legacy.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-icon-fonts-legacy)
-[![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts-legacy.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts-legacy#info=devDependencies)
+[![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts-legacy.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts-legacy?type=dev)
 
 Atom snippets for all icon fonts that have been removed from the [main package](https://atom.io/packages/icon-fonts) ([see details](#prefixes)).
 
