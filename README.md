@@ -8,6 +8,8 @@
 
 Atom snippets for all icon fonts that have been removed from the [main package](https://atom.io/packages/icon-fonts) ([see details](#prefixes)).
 
+This package is also available for [Sublime Text](https://github.com/idleberg/sublime-icon-fonts-legacy) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts-legacy).
+
 ## Installation
 
 ### apm
@@ -47,7 +49,6 @@ This work is licensed under the [The MIT License](LICENSE.md).
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-icon-fonts-legacy) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
 
 [filetypes]: http://glyphicons.com
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
