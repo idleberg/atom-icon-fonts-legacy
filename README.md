@@ -56,4 +56,5 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
 [line]: https://www.elegantthemes.com/blog/resources/elegant-icon-font
+[octicon]: https://github.com/primer/octicons/tree/v4.1.0
 [social]: http://glyphicons.com
