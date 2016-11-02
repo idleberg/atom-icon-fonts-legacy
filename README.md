@@ -16,7 +16,7 @@ This package is also available for [Sublime Text](https://github.com/idleberg/su
 
 * Install package `apm install icon-fonts-legacy` (or use the GUI)
 
-### GitHub
+### Using Git
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-icon-fonts-legacy icon-fonts-legacy`
@@ -34,6 +34,7 @@ Prefix         | Icon Font                           | Version
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
 `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
 `line`         | [Elegant Theme Line Icons][line]    | –
+`octicon4`     | [GitHub Octicons][octicon]          | 4.1.0
 `social`       | [Glyphicons Social][social]         | 1.9.0
 
 Examples:
