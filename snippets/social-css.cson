@@ -1,209 +1,209 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
 ".source.css, source.less, source.scss, source.stylus":
   "social-amazon":
-    prefix: "social-amazon"
     body: "content: '\\\\E008';"
+    prefix: "social-amazon"
   "social-android":
-    prefix: "social-android"
     body: "content: '\\\\E049';"
+    prefix: "social-android"
   "social-apple":
-    prefix: "social-apple"
     body: "content: '\\\\E044';"
+    prefix: "social-apple"
   "social-badoo":
-    prefix: "social-badoo"
     body: "content: '\\\\E027';"
+    prefix: "social-badoo"
   "social-behance":
-    prefix: "social-behance"
     body: "content: '\\\\E021';"
+    prefix: "social-behance"
   "social-bitbucket":
-    prefix: "social-bitbucket"
     body: "content: '\\\\E061';"
+    prefix: "social-bitbucket"
   "social-blogger":
-    prefix: "social-blogger"
     body: "content: '\\\\E006';"
+    prefix: "social-blogger"
   "social-buffer":
-    prefix: "social-buffer"
     body: "content: '\\\\E063';"
+    prefix: "social-buffer"
   "social-deviantart":
-    prefix: "social-deviantart"
     body: "content: '\\\\E016';"
+    prefix: "social-deviantart"
   "social-dribbble":
-    prefix: "social-dribbble"
     body: "content: '\\\\E015';"
+    prefix: "social-dribbble"
   "social-dropbox":
-    prefix: "social-dropbox"
     body: "content: '\\\\E002';"
+    prefix: "social-dropbox"
   "social-e-mail-envelope":
-    prefix: "social-e-mail-envelope"
     body: "content: '\\\\E014';"
+    prefix: "social-e-mail-envelope"
   "social-e-mail":
-    prefix: "social-e-mail"
     body: "content: '\\\\E040';"
+    prefix: "social-e-mail"
   "social-ebay":
-    prefix: "social-ebay"
     body: "content: '\\\\E060';"
+    prefix: "social-ebay"
   "social-etsy":
-    prefix: "social-etsy"
     body: "content: '\\\\E069';"
+    prefix: "social-etsy"
   "social-evernote":
-    prefix: "social-evernote"
     body: "content: '\\\\E012';"
+    prefix: "social-evernote"
   "social-facebook":
-    prefix: "social-facebook"
     body: "content: '\\\\E031';"
+    prefix: "social-facebook"
   "social-flickr":
-    prefix: "social-flickr"
     body: "content: '\\\\E036';"
+    prefix: "social-flickr"
   "social-foursquare":
-    prefix: "social-foursquare"
     body: "content: '\\\\E025';"
+    prefix: "social-foursquare"
   "social-github":
-    prefix: "social-github"
     body: "content: '\\\\E022';"
+    prefix: "social-github"
   "social-gmail":
-    prefix: "social-gmail"
     body: "content: '\\\\E019';"
+    prefix: "social-gmail"
   "social-goodreads":
-    prefix: "social-goodreads"
     body: "content: '\\\\E043';"
+    prefix: "social-goodreads"
   "social-google-drive":
-    prefix: "social-google-drive"
     body: "content: '\\\\E058';"
+    prefix: "social-google-drive"
   "social-google-plus":
-    prefix: "social-google-plus"
     body: "content: '\\\\E003';"
+    prefix: "social-google-plus"
   "social-instagram":
-    prefix: "social-instagram"
     body: "content: '\\\\E033';"
+    prefix: "social-instagram"
   "social-instapaper":
-    prefix: "social-instapaper"
     body: "content: '\\\\E011';"
+    prefix: "social-instapaper"
   "social-ios":
-    prefix: "social-ios"
     body: "content: '\\\\E050';"
+    prefix: "social-ios"
   "social-jolicloud":
-    prefix: "social-jolicloud"
     body: "content: '\\\\E004';"
+    prefix: "social-jolicloud"
   "social-last-fm":
-    prefix: "social-last-fm"
     body: "content: '\\\\E037';"
+    prefix: "social-last-fm"
   "social-linked-in":
-    prefix: "social-linked-in"
     body: "content: '\\\\E018';"
+    prefix: "social-linked-in"
   "social-linux-foundation":
-    prefix: "social-linux-foundation"
     body: "content: '\\\\E059';"
+    prefix: "social-linux-foundation"
   "social-linux":
-    prefix: "social-linux"
     body: "content: '\\\\E066';"
+    prefix: "social-linux"
   "social-medium":
-    prefix: "social-medium"
     body: "content: '\\\\E064';"
+    prefix: "social-medium"
   "social-myspace":
-    prefix: "social-myspace"
     body: "content: '\\\\E042';"
+    prefix: "social-myspace"
   "social-netflix":
-    prefix: "social-netflix"
     body: "content: '\\\\E056';"
+    prefix: "social-netflix"
   "social-open-id":
-    prefix: "social-open-id"
     body: "content: '\\\\E024';"
+    prefix: "social-open-id"
   "social-paypal":
-    prefix: "social-paypal"
     body: "content: '\\\\E057';"
+    prefix: "social-paypal"
   "social-picasa":
-    prefix: "social-picasa"
     body: "content: '\\\\E007';"
+    prefix: "social-picasa"
   "social-pinboard":
-    prefix: "social-pinboard"
     body: "content: '\\\\E020';"
+    prefix: "social-pinboard"
   "social-playstation":
-    prefix: "social-playstation"
     body: "content: '\\\\E047';"
+    prefix: "social-playstation"
   "social-pocket":
-    prefix: "social-pocket"
     body: "content: '\\\\E052';"
+    prefix: "social-pocket"
   "social-posterous-spaces":
-    prefix: "social-posterous-spaces"
     body: "content: '\\\\E034';"
+    prefix: "social-posterous-spaces"
   "social-quora":
-    prefix: "social-quora"
     body: "content: '\\\\E026';"
+    prefix: "social-quora"
   "social-read-it-later":
-    prefix: "social-read-it-later"
     body: "content: '\\\\E017';"
+    prefix: "social-read-it-later"
   "social-readability":
-    prefix: "social-readability"
     body: "content: '\\\\E030';"
+    prefix: "social-readability"
   "social-rss":
-    prefix: "social-rss"
     body: "content: '\\\\E038';"
+    prefix: "social-rss"
   "social-skype":
-    prefix: "social-skype"
     body: "content: '\\\\E039';"
+    prefix: "social-skype"
   "social-slideshare":
-    prefix: "social-slideshare"
     body: "content: '\\\\E055';"
+    prefix: "social-slideshare"
   "social-snapchat":
-    prefix: "social-snapchat"
     body: "content: '\\\\E068';"
+    prefix: "social-snapchat"
   "social-soundcloud":
-    prefix: "social-soundcloud"
     body: "content: '\\\\E054';"
+    prefix: "social-soundcloud"
   "social-spotify":
-    prefix: "social-spotify"
     body: "content: '\\\\E028';"
+    prefix: "social-spotify"
   "social-stackexchange":
-    prefix: "social-stackexchange"
     body: "content: '\\\\E070';"
+    prefix: "social-stackexchange"
   "social-stackoverflow":
-    prefix: "social-stackoverflow"
     body: "content: '\\\\E065';"
+    prefix: "social-stackoverflow"
   "social-steam":
-    prefix: "social-steam"
     body: "content: '\\\\E053';"
+    prefix: "social-steam"
   "social-stumbleupon":
-    prefix: "social-stumbleupon"
     body: "content: '\\\\E029';"
+    prefix: "social-stumbleupon"
   "social-tumblr":
-    prefix: "social-tumblr"
     body: "content: '\\\\E009';"
+    prefix: "social-tumblr"
   "social-twitter":
-    prefix: "social-twitter"
     body: "content: '\\\\E032';"
+    prefix: "social-twitter"
   "social-vimeo":
-    prefix: "social-vimeo"
     body: "content: '\\\\E035';"
+    prefix: "social-vimeo"
   "social-vine":
-    prefix: "social-vine"
     body: "content: '\\\\E041';"
+    prefix: "social-vine"
   "social-vk":
-    prefix: "social-vk"
     body: "content: '\\\\E067';"
+    prefix: "social-vk"
   "social-whatsapp":
-    prefix: "social-whatsapp"
     body: "content: '\\\\E062';"
+    prefix: "social-whatsapp"
   "social-wikipedia":
-    prefix: "social-wikipedia"
     body: "content: '\\\\E051';"
+    prefix: "social-wikipedia"
   "social-windows":
-    prefix: "social-windows"
     body: "content: '\\\\E045';"
+    prefix: "social-windows"
   "social-wordpress":
-    prefix: "social-wordpress"
     body: "content: '\\\\E010';"
+    prefix: "social-wordpress"
   "social-xbox":
-    prefix: "social-xbox"
     body: "content: '\\\\E048';"
+    prefix: "social-xbox"
   "social-xing":
-    prefix: "social-xing"
     body: "content: '\\\\E013';"
+    prefix: "social-xing"
   "social-yahoo":
-    prefix: "social-yahoo"
     body: "content: '\\\\E005';"
+    prefix: "social-yahoo"
   "social-yelp":
-    prefix: "social-yelp"
     body: "content: '\\\\E046';"
+    prefix: "social-yelp"
   "social-youtube":
-    prefix: "social-youtube"
     body: "content: '\\\\E023';"
+    prefix: "social-youtube"
