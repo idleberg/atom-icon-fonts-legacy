@@ -1,6 +1,6 @@
 {
   "name": "icon-fonts-legacy",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Atom snippets for a variety of icon fonts that were removed from the main package",
   "author": {
     "name": "Jan T. Sott",
