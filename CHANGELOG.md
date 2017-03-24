@@ -1,3 +1,8 @@
+# v2.5.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.5.0)
+
+- add support for JSX
+- include `CHANGELOG.md`
+
 # v2.4.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.4.0)
 
 - Octicons have been moved back to [atom-icon-fonts](https://github.com/idleberg/atom-icon-fonts)
