@@ -1,3 +1,7 @@
+# v2.6.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.6.0)
+
+- add support for Font Awesome 4.x
+
 # v2.5.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.5.0)
 
 - add support for JSX

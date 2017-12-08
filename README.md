@@ -30,6 +30,7 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
+`fontawesome`  | [Font Awesome][fontawesome]         | 4.7.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
 `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
@@ -51,6 +52,7 @@ This work is licensed under the [The MIT License](LICENSE.md).
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-icon-fonts-legacy) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [filetypes]: http://glyphicons.com
+[fontawesome]: https://fontawesome.com
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
