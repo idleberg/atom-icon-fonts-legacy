@@ -29,13 +29,16 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
+`brandico`     | [Brandico Font][brandico]           | – 
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
 `fontawesome`  | [Font Awesome][fontawesome]         | 4.7.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
 `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
+`icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b
 `line`         | [Elegant Theme Line Icons][line]    | –
 `social`       | [Glyphicons Social][social]         | 1.9.0
+`ui`           | [Semantic UI Icons][ui]             | 2.0.7
 
 Examples:
 
@@ -51,10 +54,13 @@ This work is licensed under the [The MIT License](LICENSE.md).
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-icon-fonts-legacy) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
+[brandico]: https://github.com/fontello/brandico.font
 [filetypes]: http://glyphicons.com
 [fontawesome]: https://fontawesome.com
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
+[icofont]: http://icofont.com/
 [line]: https://www.elegantthemes.com/blog/resources/elegant-icon-font
 [social]: http://glyphicons.com
+[ui]: http://semantic-ui.com/elements/icon.html
