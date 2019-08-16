@@ -3,8 +3,7 @@
 [![apm](https://img.shields.io/apm/l/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
 [![apm](https://img.shields.io/apm/v/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
 [![apm](https://img.shields.io/apm/dm/icon-fonts-legacy.svg?style=flat-square)](https://atom.io/packages/icon-fonts-legacy)
-[![Travis](https://img.shields.io/travis/idleberg/atom-icon-fonts-legacy.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-icon-fonts-legacy)
-[![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts-legacy.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts-legacy?type=dev)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-icon-fonts-legacy)](https://circleci.com/gh/idleberg/atom-icon-fonts-legacy)
 
 Snippets for icon fonts that have been deprecated from the main [Icon Fonts](https://github.com/idleberg/atom-icon-fonts) package ([see details](https://github.com/idleberg/atom-icon-fonts-legacy#prefixes)).
 
@@ -29,7 +28,7 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
-`brandico`     | [Brandico Font][brandico]           | – 
+`brandico`     | [Brandico Font][brandico]           | –
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
 `fontawesome`  | [Font Awesome][fontawesome]         | 4.7.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
@@ -38,6 +37,7 @@ Prefix         | Icon Font                           | Version
 `icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b
 `line`         | [Elegant Theme Line Icons][line]    | –
 `social`       | [Glyphicons Social][social]         | 1.9.0
+`ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2
 `ui`           | [Semantic UI Icons][ui]             | 2.0.7
 
 Examples:
