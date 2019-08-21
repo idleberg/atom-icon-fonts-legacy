@@ -1,3 +1,8 @@
+# v2.8.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.8.0)
+
+- add Ratchicons
+- use Circle CI
+
 # v2.7.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.7.0)
 
 - add icon fonts from [main package](https://github.com/idleberg/atom-icon-fonts)
