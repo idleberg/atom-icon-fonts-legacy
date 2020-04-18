@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".text.html":
+".source.svelte, .text.html":
   "line-icon-adjustments-data-icon":
     body: "<${1:span} data-icon=\"&#xe01d$2\"></${1:span}>$2"
     description: "<span data-icon>"

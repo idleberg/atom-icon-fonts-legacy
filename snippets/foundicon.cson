@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".text.html":
+".source.svelte, .text.html":
   "foundicon-add-doc":
     body: "<${1:i} class=\"foundicon-add-doc$2\"></${1:i}>"
     description: "<i>"

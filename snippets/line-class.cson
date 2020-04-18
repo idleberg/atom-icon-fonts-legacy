@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".text.html":
+".source.svelte, .text.html":
   "line-icon-adjustments-class":
     body: "<${1:span} class=\"icon-adjustments$2\"></${1:span}>$2"
     description: "<span class>"

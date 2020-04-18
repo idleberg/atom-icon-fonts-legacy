@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".text.html":
+".source.svelte, .text.html":
   "filetypes-aacd":
     body: "<${1:span} class=\"filetypes filetypes-aacd$2\"></${1:span}>$2"
     description: "<span>"

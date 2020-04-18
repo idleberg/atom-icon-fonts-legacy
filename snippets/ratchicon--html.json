@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "icon-back": {
             "body": "<${1:span} class=\"icon icon-back\"></${1:span}>$0",
             "description": "<span>",

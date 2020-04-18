@@ -1,4 +1,4 @@
-".text.html":
+".source.svelte, .text.html":
   "fa-li":
     description: "<li>"
     body: "<li><i class=\"fa-li fa $1\"></i>$2</li>$0"

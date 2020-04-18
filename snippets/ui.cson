@@ -1,4 +1,4 @@
-".text.html":
+".source.svelte, .text.html":
   "ui-search-icon":
     body: "<${1:i} class=\"search icon$2\"></${1:i}>$0"
     description: "<i>"

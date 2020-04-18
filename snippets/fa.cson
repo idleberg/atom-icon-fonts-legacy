@@ -1,4 +1,4 @@
-".text.html":
+".source.svelte, .text.html":
   "fa-500px":
     body: "<${1:i} class=\"fa fa-500px$2\"></${1:i}>$0"
     description: "<i>"

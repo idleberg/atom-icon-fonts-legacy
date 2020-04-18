@@ -1,4 +1,4 @@
-".text.html":
+".source.svelte, .text.html":
   "icofont-5-star-hotel":
     body: "<${1:i} class=\"icofont icofont-5-star-hotel$2\"></${1:i}>"
     description: "<i>"

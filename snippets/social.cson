@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".text.html":
+".source.svelte, .text.html":
   "social-amazon":
     body: "<${1:span} class=\"social social-amazon$2\"></${1:span}>$2"
     description: "<span>"
