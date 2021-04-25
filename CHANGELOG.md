@@ -1,3 +1,10 @@
+# v2.10.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.10.0)
+
+- add Foundation Icons from [main package](https://github.com/idleberg/atom-icon-fonts)
+- add Geomicons from [main package](https://github.com/idleberg/atom-icon-fonts)
+- decaffeinate
+- update linting scripts
+
 # v2.9.0 [#](https://github.com/idleberg/atom-icon-fonts-legacy/releases/tag/v2.9.0)
 
 - add Svelte support
