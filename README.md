@@ -29,10 +29,10 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
 `brandico`     | [Brandico Font][brandico]           | –
+`fi`           | [Foundation Icons v3][fi]           | 3.0
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
 `fontawesome`  | [Font Awesome][fontawesome]         | 4.7.0
 `foundico`     | [Foundation Icons v1][foundico]     | 1.0.0
-`fi`           | [Foundation Icons v3][fi]           | 3.0
 `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
 `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
